@@ -1,0 +1,29 @@
+[0819/225552.860:ERROR:file_io_win.cc(179)] CreateFile C:\Users\KaLyAn\AppData\Local\Temp\scoped_dir9868_1076806475\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0819/225724.139:ERROR:file_io_win.cc(179)] CreateFile C:\Users\KaLyAn\AppData\Local\Temp\scoped_dir14812_1890077725\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0819/231029.268:ERROR:file_io_win.cc(179)] CreateFile C:\Users\KaLyAn\AppData\Local\Temp\scoped_dir14744_194901549\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0820/121213.743:ERROR:file_io_win.cc(179)] CreateFile C:\Users\KaLyAn\AppData\Local\Temp\scoped_dir10384_667696985\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0820/163652.945:ERROR:file_io_win.cc(179)] CreateFile C:\Users\KaLyAn\AppData\Local\Temp\scoped_dir8536_255204741\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0821/193713.773:ERROR:file_io_win.cc(179)] CreateFile C:\Users\KaLyAn\AppData\Local\Temp\scoped_dir2868_1983391579\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0821/204750.199:ERROR:file_io_win.cc(179)] CreateFile C:\Users\KaLyAn\AppData\Local\Temp\scoped_dir12968_771452513\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0821/222850.865:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0821/222850.943:ERROR:exception_snapshot_win.cc(98)] thread ID 13172 not found in process
+[0821/222851.298:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0821/222851.298:ERROR:exception_snapshot_win.cc(98)] thread ID 8700 not found in process
+[0822/172749.619:ERROR:file_io_win.cc(179)] CreateFile C:\Users\KaLyAn\AppData\Local\Temp\scoped_dir8168_1736819197\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0822/172836.978:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0822/172837.001:ERROR:exception_snapshot_win.cc(98)] thread ID 2948 not found in process
+[0822/172837.046:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0822/172837.046:ERROR:exception_snapshot_win.cc(98)] thread ID 11888 not found in process
+[0822/172837.118:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0822/172837.118:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0822/172837.118:ERROR:exception_snapshot_win.cc(98)] thread ID 9512 not found in process
+[0822/172837.544:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0822/172837.545:ERROR:exception_snapshot_win.cc(98)] thread ID 584 not found in process
+[0822/172837.721:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0822/172837.721:ERROR:exception_snapshot_win.cc(98)] thread ID 1072 not found in process
+[0822/202701.176:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0822/202701.187:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0822/202701.206:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0822/202701.283:ERROR:exception_snapshot_win.cc(98)] thread ID 5916 not found in process
+[0822/202701.283:ERROR:exception_snapshot_win.cc(98)] thread ID 6768 not found in process
+[0822/202701.283:ERROR:exception_snapshot_win.cc(98)] thread ID 8408 not found in process

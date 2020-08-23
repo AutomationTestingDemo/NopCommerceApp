@@ -1,0 +1,5 @@
+[0819/175419.799:ERROR:file_io_win.cc(179)] CreateFile C:\Users\KaLyAn\AppData\Local\Temp\scoped_dir10636_394972402\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0819/180218.566:ERROR:file_io_win.cc(179)] CreateFile C:\Users\KaLyAn\AppData\Local\Temp\scoped_dir5636_2131352120\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0819/181535.884:ERROR:file_io_win.cc(179)] CreateFile C:\Users\KaLyAn\AppData\Local\Temp\scoped_dir6424_668687224\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0819/224602.237:ERROR:file_io_win.cc(179)] CreateFile C:\Users\KaLyAn\AppData\Local\Temp\scoped_dir3716_1101422543\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0819/225012.757:ERROR:file_io_win.cc(179)] CreateFile C:\Users\KaLyAn\AppData\Local\Temp\scoped_dir13676_1056626762\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
